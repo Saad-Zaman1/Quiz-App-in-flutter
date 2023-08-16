@@ -27,5 +27,13 @@ I've learned about:
  - Used Column and rows and adjest their Main and cross axis
  - Switching between different screens
  - Making widgets scrollable
+ - Saving user values and show them in different screen
  - And much more
+
+![image](https://github.com/Saad-Zaman1/practiceRepo/assets/88928048/8a6d9b82-ca65-4f48-8dfb-1f84052e750b)
+
+
+![image](https://github.com/Saad-Zaman1/practiceRepo/assets/88928048/0ec33cbb-aaf4-4b73-80e7-1def5f06ad88)
+
+
 ![image](https://github.com/Saad-Zaman1/practiceRepo/assets/88928048/8de0d0e0-682e-4ba8-baae-fdfa9d2f1ecc)
